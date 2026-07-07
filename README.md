@@ -163,9 +163,8 @@ The **Healthcare Patient Flow Dashboard** provides insights into:
 - **Portfolio Value:** Demonstrates both **Data Engineering** and **Analytics skills** in one project.  
 
 ---
+## 👩‍💻 Author
 
-**Author**: *Pranusha T*
-
-**LinkedIn**: [username](https://www.linkedin.com/in/jayachandrakadiveti/) 
-
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
+**Pranusha Tirunagari**  
+Data Engineer | Azure | Databricks | PySpark | Power BI  
+📍 [LinkedIn](https://www.linkedin.com/in/pranusha-tirunagari-a583a63a8/) | [GitHub](https://github.com/Ptirunagari19)
