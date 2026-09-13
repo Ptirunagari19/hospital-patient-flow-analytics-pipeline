@@ -261,7 +261,7 @@ Six analytical views power the Power BI dashboard:
 
 ### 6. Power BI Dashboard
 
-**File:** [`powerbi/hospital_patient_flow.pbix`](powerbi/hospital_patient_flow.pbix)
+**File:** [`powerbi/Hospital_Dashboard.pbix`](powerbi/Hospital_Dashboard.pbix)
 
 Connected directly to Synapse SQL Pool via live SQL connection. Imports fact and dimension tables with established star schema relationships.
 
@@ -330,6 +330,7 @@ python simulator/patient_flow_generator.py
 ---
 
 ## 👩‍💻 Author
+
 **Pranusha Tirunagari**  
-Data Engineer | Azure | Databricks | PySpark | Power BI  
+Data Engineer | Azure • Databricks • PySpark • Power BI  
 📍 [LinkedIn](https://www.linkedin.com/in/pranusha-tirunagari-a583a63a8/) | [GitHub](https://github.com/Ptirunagari19)
