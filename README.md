@@ -333,6 +333,3 @@ python simulator/patient_flow_generator.py
 **Pranusha Tirunagari**  
 Data Engineer | Azure | Databricks | PySpark | Power BI  
 📍 [LinkedIn](https://www.linkedin.com/in/pranusha-tirunagari-a583a63a8/) | [GitHub](https://github.com/Ptirunagari19)
-**Pranusha Tirunagari**  
-Senior Data Engineer | Azure • Databricks • PySpark • Power BI  
-📍 [LinkedIn](https://www.linkedin.com/in/pranusha-tirunagari-a583a63a8/) | [GitHub](https://github.com/Ptirunagari19)
